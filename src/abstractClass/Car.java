@@ -6,7 +6,8 @@ public class Car extends Fuel {
 	{
 		System.out.println("Petrol is filled in car");
 	}
-	
+
+
 	public static void main(String[] args) {
 		
 		Car c=new Car();
